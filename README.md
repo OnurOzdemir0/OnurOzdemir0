@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OnurOzdemir0
 - 👀 I’m interested in game dev, web dev(mostly front end) and bunch of other stuff. 
-- 📋 To see my prior projects: https://globalgamejam.org/users/onurozdemir 
+- 📋 To see my prior projects: https://onurozdemir.itch.io/ https://globalgamejam.org/users/onurozdemir 
 
 
 - 📫 Reach me at:  https://www.linkedin.com/in/onur-özdemir-7815b221a
