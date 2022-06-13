@@ -3,7 +3,7 @@
 - 📋 To see my prior projects: https://globalgamejam.org/users/onurozdemir 
 
 
-- 📫 Reach me at: linkedin.com/in/onur-özdemir-7815b221a 
+- 📫 Reach me at:  https://www.linkedin.com/in/onur-özdemir-7815b221a
 
 <!---
 OnurOzdemir0/OnurOzdemir0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
