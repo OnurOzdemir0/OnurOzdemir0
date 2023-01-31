@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OnurOzdemir0
-- 👀 I’m interested in game dev, web dev(mostly front end) and bunch of other stuff. 
+- 👀 I’m interested in game dev, web dev and bunch of other stuff. 
 - 📋 To see my prior projects: https://onurozdemir.itch.io/ , https://onurozfe.artstation.com/
 
 
