@@ -5,10 +5,11 @@
 
 # Projects
 ### Unreal Engine
+- Solo game jam project created in under 48 hours for the OzuGameJam1: https://github.com/OnurOzdemir0/Caylar-Fps-Waiter-Sim (Project is under progress.) 
+Play here --> https://onurozdemir.itch.io/caylar
 - Bunch of fun game mechanics: https://github.com/OnurOzdemir0/Unreal-Engine-Portfolio
 - Real-Time Hallway Generation: https://github.com/OnurOzdemir0/ProceduralHallwayGenerationUE_5.1
-- Solo game jam project created in under 48 hours for the OzuGameJam1: https://github.com/OnurOzdemir0/Caylar-Fps-Waiter-Sim (Project is uncomplete.) 
-Play here --> https://onurozdemir.itch.io/caylar
+
 
 
 ### Unity
