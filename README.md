@@ -18,7 +18,7 @@ Game Jams: https://onurozdemir.itch.io/
 Blender: https://onurozfe.artstation.com/
 
 ### School Projects
-- (Java -- SpringBoot, POSTGRESQL) Database Management Systems | CS202: https://github.com/OnurOzdemir0/Supply-Chain-Database
+- (Java -- SpringBoot, SQL) Database Management Systems | CS202: https://github.com/OnurOzdemir0/Supply-Chain-Database
 - (C++) Data Structures and Algorithm | CS201: https://github.com/OnurOzdemir0/CS-201-Data-Structures-and-Algorithms
 - (Java) Offline Mock ChatApp | CS102: https://github.com/OnurOzdemir0/OfflineChatApp-Java-AWT
 
