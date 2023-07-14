@@ -22,6 +22,7 @@ Blender: https://onurozfe.artstation.com/
 - (Java -- SpringBoot, SQL) Database Management Systems | CS202: https://github.com/OnurOzdemir0/Supply-Chain-Database
 - (C++) Data Structures and Algorithm | CS201: https://github.com/OnurOzdemir0/CS-201-Data-Structures-and-Algorithms
 - (Java) Offline Mock ChatApp | CS102: https://github.com/OnurOzdemir0/OfflineChatApp-Java-AWT
+- (RISC-V Assembly -- Verilog -- C) Computer Architecture | CS240: https://github.com/OnurOzdemir0/CS240-Computer-Architecture
 
 📫 Reach me at:  https://www.linkedin.com/in/onur-özdemir-7815b221a
 
