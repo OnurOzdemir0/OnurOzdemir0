@@ -5,6 +5,7 @@
 
 # Projects
 ### Unreal Engine
+- Solo AutoBattler Submission for Epic Mega Jam 2023.  https://github.com/OnurOzdemir0/Icarus
 - Solo game jam project created in under 48 hours for the OzuGameJam1: https://github.com/OnurOzdemir0/Caylar-Fps-Waiter-Sim (Project is under progress.) 
 Play here --> https://onurozdemir.itch.io/caylar
 - Bunch of fun game mechanics: https://github.com/OnurOzdemir0/Unreal-Engine-Portfolio
