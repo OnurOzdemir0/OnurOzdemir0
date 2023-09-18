@@ -11,7 +11,6 @@ Play here --> https://onurozdemir.itch.io/caylar
 - Real-Time Hallway Generation: https://github.com/OnurOzdemir0/ProceduralHallwayGenerationUE_5.1
 
 ### Unity
-- 2D top-down Pathfinding: https://github.com/OnurOzdemir0/Unity2D-Pathfinding
 - A cute jam game: https://github.com/OnurOzdemir0/Puppychino |  | Play on web: https://ossanozfe.itch.io/puppychino
 
 ### More
