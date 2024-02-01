@@ -1,7 +1,6 @@
 ## Welcome
 
 👋 I’m @OnurOzdemir0.  
-👀 I am interested in game dev.   
 
 # Projects
 ### Unreal Engine
