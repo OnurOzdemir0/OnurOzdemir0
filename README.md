@@ -26,6 +26,7 @@ Game Jams: https://onurozdemir.itch.io/
 Blender: https://onurozfe.artstation.com/
 
 ### School Projects
+- (Solidity, MOVE, TypeScript, React) Sui - ETH Bridge | Intro to Blockchain | https://github.com/OnurOzdemir0/ibt_token,  
 - (Python)| The Byzantine Generals Problem Implementation | CS333: https://github.com/OnurOzdemir0/byzantine_generals
 - (Python, AWS) Client-Server Audio Message App | Computer Networking | CS447: https://github.com/DurthVadr/RealChat
 - (Java) Chess | Software Engineering CS320 https://github.com/OnurOzdemir0/CS320-SoftwareEngineering
